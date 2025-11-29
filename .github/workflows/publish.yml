@@ -24,3 +24,15 @@ jobs:
 
       - run: mkdocs gh-deploy --force
 
+      - name: Archive deployment on Wayback Machine
+        env:
+          TARGET_URL: https://hong-kong-emergency-coordination-hub.github.io/Hong-Kong-Fire-Documentary/
+        run: |
+          echo "Triggering Wayback Machine snapshot for $TARGET_URL"
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-delay 10 \
+            "https://web.archive.org/save/$TARGET_URL" \
+            --output wayback-response.json
+          echo "Wayback Machine response:"
+          cat wayback-response.json
+
