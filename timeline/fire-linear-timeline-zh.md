@@ -30,7 +30,10 @@
 | 06:00        | 包括1消防員殉職                                                     | 94死76傷                   | [SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) |
 | 10:18        | 火警大致救熄                                                         | -                          | [維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) |
 | 12:49        | 7座救熄，死傷集中宏昌閣及宏泰閣                                       | -                          | [SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) |
-| 15:00        | 最終統計                                                             | **128死78傷，200失蹤**    | [維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) |
+| 15:00        | 最終統計                                                             | **128死78傷,200失蹤**    | [維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) |
+| **11月29日** |                                                                      |                            |          |
+| 00:00     | 民政事務總署於全港18區設置弔唁處,供市民簽署弔唁冊。簽署弔唁冊的時間為11月29日至12月1日上午9時至晚上9時 | -                          | -        |
+| 08:00        | 特區政府舉行哀悼火災罹難者默哀儀式,全港政府建築物及設施即日起一連三日,下半旗誌哀 | -                          | -        |
 
 **資料來源**：
 [維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) [英文維基](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) [東方日報](https://www.orientalsunday.hk/%E6%9C%80%E6%96%B0%E5%A8%9B%E8%81%9E/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%81%AB%E8%AD%A6%E9%90%98-%E7%B6%AD%E4...) [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%8...)

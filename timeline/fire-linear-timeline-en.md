@@ -32,6 +32,9 @@
 | 10:18         | Fire alarm largely extinguished                                     | -                         | [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) |
 | 12:49         | 7 buildings extinguished, casualties concentrated in Hung Cheung & Hung Tai Houses | -                         | [SBS Timeline](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) |
 | 15:00         | Final tally                                                         | **128 dead, 78 injured, 200 missing** | [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) |
+| **Nov 29**    |                                                                    |                           |             |
+| 00:00      | Home Affairs Department set up condolence stations in all 18 districts for citizens to sign condolence books. Registration period: Nov 29 to Dec 1, 9 AM to 9 PM | -                         | -           |
+| 08:00         | SAR Government held memorial ceremony for fire victims; government buildings and facilities to fly flags at half-mast for three consecutive days starting today | -                         | -           |
 
 **Data Sources**:  
 [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS Timeline](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) [English Wiki](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) [Oriental Daily](https://www.orientalsunday.hk/%E6%9C%80%E6%96%B0%E5%A8%9B%E8%81%9E/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%81%AB%E8%AD%A6%E9%90%98-%E7%B6%AD%E4...) [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%8...)
