@@ -11,7 +11,7 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 ## 政府部門文件 (Government Documents)
 
 - **屋宇署 (Buildings Department)**
-  -  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)     - 
+  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)     - 
   - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)  - 
   - [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024年修訂版）修訂事宜(2025年10月31日) (BD MW/1-50/11)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_ATGMWCS2025c.pdf)
   - [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年10月21日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDRMW2025c.pdf)
